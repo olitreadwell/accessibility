@@ -20,7 +20,7 @@ Some of our favorite, free accessibility courses include:
 * [Information and Communication Technology (ICT) Accessibility by GeorgiaTech](https://www.edx.org/course/information-and-communication-technology-ict-acces);
 * [Assistive technologies and online learning by the Open University](https://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0?active-tab=description-tab).
 
-Podcasts are another great way to learn about web accessibility—including [A11yRules.com](https://a11yrules.com/) and [Human Potential At Work](https://www.ruhglobal.com/podcasthuman-potential-work/). While these resources are often available for free, the publishers usually depend on donations to support the ongoing education work. If you choose to listen, please consider contributing to a [Patreon campaign](https://www.patreon.com/steenhout) to support their wonderful work. Supporting these initiatives is a cost-effective way to increase the availability of new accessibility resources.
+Podcasts are another great way to learn about web accessibility—including [A11y Rules Podcast](https://nicolas-steenhout.com/podcast/) and [Human Potential At Work](https://www.ruhglobal.com/podcasthuman-potential-work/). While these resources are often available for free, the publishers usually depend on donations to support the ongoing education work. If you choose to listen, please consider contributing to a [Patreon campaign](https://www.patreon.com/steenhout) to support their wonderful work. Supporting these initiatives is a cost-effective way to increase the availability of new accessibility resources.
 
 There are also several high-quality accessibility guides available for free. For example, the US government has produced accessibility guidance through [Digital.gov](https://digital.gov/topics/accessibility/) (18F, which previously published this guide, was dissolved in 2025). Rather than creating a new guide from scratch, these resources are available to build upon and improve. CivicActions is looking to extend these to provide an [accessibility playbook](https://civicactions.github.io/accessibility/) for people interested in accessibility best practices.
 
@@ -28,7 +28,7 @@ Public sector employees must be encouraged to take advantage of these resources 
 
 ## Checklist
 
-* Schedule time to participate in [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) and [International Day of People With Disabilities](https://idpwd.org/) (Dec 3rd).
+* Schedule time to participate in [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) and [International Day of People With Disabilities](https://www.idpwd.gov.au/) (Dec 3rd).
 * Follow more [accessibility people/organizations](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility) on Social Media.
 * Read and [share books on accessibility best practices](https://pressbooks.library.torontomu.ca/catalog/accessibility).
 * Subscribe to [free accessibility videos & podcasts](/guide/resources).
